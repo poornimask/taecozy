@@ -90,7 +90,7 @@ h5{
 /* All ID CSS*/
 #mission{
 	height: 700px;
-	background-image: url("images/img-mission-background.jpg");
+	background-image: url("../images/img-mission-background.jpg");
     padding-top: 70px;
 }
 #mission .container{
@@ -107,7 +107,7 @@ padding: 70px;
 }
 #loc{
 	height: 500px;
-	background-image: url("images/img-locations-background.jpg");
+	background-image: url("../images/img-locations-background.jpg");
 	padding-top: 70px;
 }
 #contact{
